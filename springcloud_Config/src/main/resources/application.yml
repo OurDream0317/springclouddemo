@@ -1,0 +1,19 @@
+eureka:
+    client:
+      service-url:
+        defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name: config
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/sijidouwudi/springcloud_config.git
+          username: 1349516890@qq.com
+          password: publicstatic0301
+
+server:
+  port: 8083
+
+
