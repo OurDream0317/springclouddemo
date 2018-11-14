@@ -4,13 +4,21 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Producer/Producer.iml" filepath="$PROJECT_DIR$/Producer/Producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka (1).iml" filepath="$PROJECT_DIR$/eureka/eureka (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka2/eureka (2).iml" filepath="$PROJECT_DIR$/eureka2/eureka (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka3/eureka (3).iml" filepath="$PROJECT_DIR$/eureka3/eureka (3).iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka2/eureka2.iml" filepath="$PROJECT_DIR$/eureka2/eureka2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka3/eureka3.iml" filepath="$PROJECT_DIR$/eureka3/eureka3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Producer/product.iml" filepath="$PROJECT_DIR$/Producer/product.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_Config/springcloud_Config.iml" filepath="$PROJECT_DIR$/springcloud_Config/springcloud_Config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_Config1/springcloud_Config1.iml" filepath="$PROJECT_DIR$/springcloud_Config1/springcloud_Config1.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud_Zuul/springcloud_Zuul.iml" filepath="$PROJECT_DIR$/springcloud_Zuul/springcloud_Zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud_demo.iml" filepath="$PROJECT_DIR$/.idea/springcloud_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_Config/springcloudconfig (1).iml" filepath="$PROJECT_DIR$/springcloud_Config/springcloudconfig (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_Config1/springcloudconfig (2).iml" filepath="$PROJECT_DIR$/springcloud_Config1/springcloudconfig (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_Zuul/zuul.iml" filepath="$PROJECT_DIR$/springcloud_Zuul/zuul.iml" />
     </modules>
   </component>
 </project>
